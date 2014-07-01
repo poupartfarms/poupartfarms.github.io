@@ -1,0 +1,52 @@
+# Dependencies
+markdown:	redcarpet
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Poupart Farm
+tagline:	'Veganic Permaculture Redesigned'
+description:	'The up coming commercial and community efforts to bring veganic options to the masses.'
+url:		http://poupart.farm
+
+author:
+  name:		'Chris Poupart'
+  url:		https://google.com/+ChrisPoupart
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/chrispoupart
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/chrispoupart
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+ChrisPoupart
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://poupart.farm/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Chris Poupart
+  url:		http://poupart.farm
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
