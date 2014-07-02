@@ -26,10 +26,14 @@ social:
     url:	https://twitter.com/chrispoupart
     desc:	Follow me on twitter
 
-  - icon:	github
-    url:	https://github.com/chrispoupart
-    desc:	Fork me on github
+  - icon:	facebook
+    url:        https://facebook.com/chrispoupart
+    desc:       Friend me on facebook
 
+#  - icon:	github
+#    url:	https://github.com/chrispoupart
+#    desc:	Fork me on github
+#
   - icon:	googleplus-alt
     url:	https://google.com/+ChrisPoupart
     desc:	Add me on google+
