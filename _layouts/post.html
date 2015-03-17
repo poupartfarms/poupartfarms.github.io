@@ -41,9 +41,7 @@ comments: true
 			{% endif %}
 		</a>
 	</div>
-        {% if page.comments %}
         {% include disqus.html %}
-        {% endif %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
 </footer>
 {% endfor %}
