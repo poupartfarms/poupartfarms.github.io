@@ -487,3 +487,13 @@ pre code {
 	font-size: 12pt;
 	color: #999;
 }
+
+
+/* Disqus formatting */
+/* ----------------------------------------------------------*/
+
+#disqus_thread {
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
