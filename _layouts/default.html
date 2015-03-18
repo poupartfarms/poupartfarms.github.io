@@ -3,6 +3,8 @@
 {% include head.html %}
 <body>
 	{{ content }}
-        {% include disqus.html %}
+	{% if page.comments %}
+	{% include disqus.html %}
+	{% endif %}
 </body>
 </html>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+comments: false
 ---
 
 <header class="clean" style="height: 350px; background-image: url({{ site.cover }});">
