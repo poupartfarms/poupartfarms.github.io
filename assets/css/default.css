@@ -68,6 +68,9 @@ img {
 
 #post-info {
 	color: black;
+	background: rgba(160, 160, 160, 0.6);
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 20px;
 	font-size: 14px;
 	position: absolute;
 	z-index: 2;
@@ -75,7 +78,7 @@ img {
 
 #post-info h1 {
 	font-weight: bold;
-	margin: 15px 0px;
+	margin: 15px 15px;
 }
 
 #post-info h2 {
@@ -85,7 +88,7 @@ img {
 	line-height: 24px;
 	text-align: justify;
 	font-weight: lighter;
-	margin: 15px 0px;
+	margin: 15px 15px;
 }
 
 #post-info h2:before {
@@ -494,7 +497,7 @@ pre code {
 /* ----------------------------------------------------------*/
 
 #disqus_thread {
-  width: 60%;
+  width: 50%;
   margin-right: auto;
   margin-left: auto;
 }
