@@ -10,8 +10,6 @@ author: Chris
 
 Recently it was posited to me that veganism can not be an intersectional movement because it would require us to view oppressed humans as sub-human. The person further went on to point out that historically, minorities have been denigrated through comparison to nonhuman animals. This last statement is true — it can be seen from the way that thew Jews were treated in Nazi Germany to the way that African Americans are still treated in the USA to day. 
 
-<div style="text-align: center;"><figure><img src="/media/2015-06-19-veganism_and_intersectionality/jew-rat-propaganda.jpg"><figcaption>Nazi propaganda depicting Jews as rats.</figcaption></figure></div>
-
 There are, however, a few things wrong with this argument. Firstly, intersectionality focuses on the systems of oppression, not necessarily on the victims of oppression. Therefore, the victims of oppression do not have to have anything in common for there to be similarities in the way that they are being oppressed.
 
 However, that still misses the larger issue here, which is the inherent speciesism of the idea that nonhuman animals are somehow "lesser creatures". In a sense, it is this pre-conditioned belief, a belief that most humans share, that makes the comparison between oppressed groups and nonhuman animals so upsetting. Aside from the obvious issue of the oppression of a group of humans, should we not also question the societally conditioned belief that humans are somehow “above” or “better than” nonhuman animals?
