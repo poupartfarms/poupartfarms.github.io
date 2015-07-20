@@ -8,7 +8,7 @@ tags: [ veganism, philosophy, racism ]
 author: Chris
 ---
 
-Recently it was posited to me that veganism can not be an intersectional movement because it would require us to view oppressed humans as sub-human. The person further went on to point out that historically, minorities have been denigrated through comparison to nonhuman animals. This last statement is true — it can be seen from the way that thew Jews were treated in Nazi Germany to the way that African Americans are still treated in the USA to day.
+Recently it was posited to me that veganism can not be an intersectional movement because it would require us to view oppressed humans as sub-human. The person further went on to point out that historically, minorities have been denigrated through comparison to nonhuman animals. This last statement is true — it can be seen from the way that thew Jews were treated in Nazi Germany to the way that African Americans are still treated in the USA to day. ![Nazi propaganda showing Jews as rats.](/media/2015-06-19-veganism_and_intersectionality/jew-rat-propaganda.jpg)
 
 There are, however, a few things wrong with this argument. Firstly, intersectionality focuses on the systems of oppression, not necessarily on the victims of oppression. Therefore, the victims of oppression do not have to have anything in common for there to be similarities in the way that they are being oppressed.
 
