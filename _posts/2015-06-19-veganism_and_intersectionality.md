@@ -23,3 +23,13 @@ Of course, this is both a ludicrous and inflammatory statement in its fallacious
 But the beauty is that while we seek to address our own privilege with regards to race, and while we strive to be good allies and to stand alongside other marginalized humans to support them in their fights for justice, we can also seek to address our own privilege with regards to species. We can embrace veganism, not in the modern “don’t eat animals” watered down meaning of the word, but as it was originally meant, to seek to break down unjustified hierarchy and recognize that nonhuman animals value their lives as much as we value our. To give nonhuman animals moral consideration when we are making decisions that affect them, such as (but not limited to) what to eat, what to wear, and what entertains us.
 
 To quote Angela Davis: “I think it’s the right moment to talk about it because it is part of a revolutionary perspective – how can we not only discover more compassionate relations with human beings but how can we develop compassionate relations with the other creatures with whom we share this planet...”
+
+## Resources
+For more information on the subject of intersectionality and veganism, you may enjoy these websites and books:
+
+  * [The Sistah Vegan Project](http://sistahvegan.com/)
+  * [The Food Empowerment Project](http://www.foodispower.org/)
+  * [Vegans of Color](https://vegansofcolor.wordpress.com/)
+  * [Circles of Compassion: Essays Connecting Issues of Justice](http://veganpublishers.com/multimedia-archive/injustice-anywhere-essays-connecting-human-animal-and-environmental-well-being/)
+  * [The Academic Abolitionist Vegan](http://academicabolitionistvegan.blogspot.ca/search/label/Intersections)
+  * [A Rational Approach to Animal Rights: Extensions in Abolitionist Theory](http://www.palgrave.com/page/detail/a-rational-approach-to-animal-rights-corey-wrenn/?sf1=barcode&st1=9781137434647)
