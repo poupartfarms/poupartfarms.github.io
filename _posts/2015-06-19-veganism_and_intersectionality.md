@@ -25,7 +25,7 @@ Of course, this is both a ludicrous and inflammatory statement in its fallacious
 
 But the beauty is that while we seek to address our own privilege with regards to race, and while we strive to be good allies and to stand alongside other marginalized humans to support them in their fights for justice, we can also seek to address our own privilege with regards to species. We can embrace veganism, not in the modern “don’t eat animals” watered down meaning of the word, but as it was originally meant, to seek to break down unjustified hierarchy and recognize that nonhuman animals value their lives as much as we value ours. To give nonhuman animals moral consideration when we are making decisions that affect them, such as (but not limited to) what to eat, what to wear, and what entertains us.
 
-To quote Angela Davis: “I think it’s the right moment to talk about it because it is part of a revolutionary perspective – how can we not only discover more compassionate relations with human beings but how can we develop compassionate relations with the other creatures with whom we share this planet...”
+<div style="text-align: center;"><figure><img src="/media/2015-06-19-veganism_and_intersectionality/Angela-Davis-Mar-28-2006.jpg"><figcaption>“I think it’s the right moment to talk about it because it is part of a revolutionary perspective – how can we not only discover more compassionate relations with human beings but how can we develop compassionate relations with the other creatures with whom we share this planet...” -- Angela Davis</figcaption></figure></div>
 
 ## Resources
 For more information on the subject of intersectionality and veganism, you may enjoy these websites and books:
