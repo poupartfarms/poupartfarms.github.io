@@ -35,3 +35,5 @@ For more information on the subject of intersectionality and veganism, you may e
   * [Circles of Compassion: Essays Connecting Issues of Justice](http://veganpublishers.com/multimedia-archive/injustice-anywhere-essays-connecting-human-animal-and-environmental-well-being/)
   * [The Academic Abolitionist Vegan](http://academicabolitionistvegan.blogspot.ca/search/label/Intersections)
   * [A Rational Approach to Animal Rights: Extensions in Abolitionist Theory](http://www.palgrave.com/page/detail/a-rational-approach-to-animal-rights-corey-wrenn/?sf1=barcode&st1=9781137434647)
+
+_Special thanks to Julie A. for editorial and moral support._
