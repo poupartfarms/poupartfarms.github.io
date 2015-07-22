@@ -6,12 +6,12 @@ video: false
 comments: true
 tags: [ veganism, philosophy, racism ]
 author: Chris
-fbimage: /media/2015-06-19-veganism_and_intersectionality/sexual-politics-of-meat.jpg
+fbimage: /media/2015-076-19-veganism_and_intersectionality/sexual-politics-of-meat.jpg
 ---
 
 Recently it was posited to me that veganism can not be an intersectional movement because it would require us to view oppressed humans as sub-human. The person further went on to point out that historically, minorities have been denigrated through comparison to nonhuman animals. This last statement is true — it can be seen from the way that Jews were treated in Nazi Germany to the way that African Americans are still treated in the USA to day. 
 
-<div style="text-align: center;"><figure><img src="/media/2015-06-19-veganism_and_intersectionality/jew-rat-propaganda.jpg"><figcaption>Nazi propaganda depicting Jews as rats.</figcaption></figure></div>
+<div style="text-align: center;"><figure><img src="/media/2015-07-19-veganism_and_intersectionality/jew-rat-propaganda.jpg"><figcaption>Nazi propaganda depicting Jews as rats.</figcaption></figure></div>
 
 There are, however, a few things wrong with this argument. Firstly, intersectionality focuses on the systems of oppression, not necessarily on the victims of oppression. Therefore, the victims of oppression do not have to have anything in common for there to be similarities in the way that they are being oppressed.
 
@@ -26,7 +26,7 @@ Of course, this ludicrous and inflammatory statement is a [logical fallacy](http
 But the beauty is that while we seek to address our own privilege with regards to race, and while we strive to be good allies and to stand alongside other marginalized humans to support them in their fights for justice, we can also seek to address our own privilege with regards to species. We can embrace veganism, not in the modern “don’t eat animals” watered down meaning of the word, but as it was originally meant, to seek to break down unjustified hierarchy and recognize that nonhuman animals value their lives as much as we value ours. To give nonhuman animals moral consideration when we are making decisions that affect them, such as (but not limited to) what to eat, what to wear, and what entertains us.
 
 <div style="float: right; width: 375px;">
-  <figure><img src="/media/2015-06-19-veganism_and_intersectionality/Angela-Davis-Mar-28-2006.jpg"><figcaption>Photo of Angela Davis speaking by <a href="https://commons.wikimedia.org/wiki/File:Angela-Davis-Mar-28-2006.jpg">Nick Wiebe</a></figcaption></figure>
+  <figure><img src="/media/2015-07-19-veganism_and_intersectionality/Angela-Davis-Mar-28-2006.jpg"><figcaption>Photo of Angela Davis speaking by <a href="https://commons.wikimedia.org/wiki/File:Angela-Davis-Mar-28-2006.jpg">Nick Wiebe</a></figcaption></figure>
 </div>
 To quote Angela Davis: “I think it’s the right moment to talk about it because it is part of a revolutionary perspective – how can we not only discover more compassionate relations with human beings but how can we develop compassionate relations with the other creatures with whom we share this planet...”
 
