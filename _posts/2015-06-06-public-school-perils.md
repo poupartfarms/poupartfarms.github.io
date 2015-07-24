@@ -5,6 +5,7 @@ quote:
 video: false
 comments: true
 fbimage: /media/2015-06-06-public-school-perils/pink-floyd-the-wall.jpg
+image: /media/2015-06-06-public-school-perils/pink-floyd-the-wall.jpg
 tags: [ veganism, philosophy ]
 ---
 
