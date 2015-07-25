@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Public School Perils"
+title: "Public School Perils - Part 1"
 quote: 
 video: false
 comments: true
