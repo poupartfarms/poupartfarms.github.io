@@ -16,9 +16,9 @@ For those of you who have been disconnected from all forms of media this past we
 
 The way that people have responded to Cecil’s death is interesting from a sociological perspective. Two main factors come into play:
 
-1. Because Cecil was not a typical “food animal”, people have not denied him an individual mind. This is evident in the journalistic use of the pronoun “he” instead of “it”. Cecil was a person, not a thing. (See: Loughnan, S., Haslam, N., & Bastian, B. (2010). “The role of meat consumption in the denial of moral status and mind to meat animals.” Appetite, 55(1), 156-159.)
+1. Because Cecil was not a typical “food animal”, people have not denied him an individual mind. This is evident in the journalistic use of the pronoun “he” instead of “it”. Cecil was a person, not a thing. (See: Loughnan, S., Haslam, N., & Bastian, B. (2010). “[The role of meat consumption in the denial of moral status and mind to meat animals.](http://www.sciencedirect.com/science/article/pii/S0195666310003648)” Appetite, 55(1), 156-159.)
 
-2. Cecil was a single tragedy. To quote Joseph Stalin: “A single death is a tragedy; a million deaths is a statistic.” As activists, we might do well to remember this. When we talk about the billions of animals that humans kill each year, we really do risk triggering compassion collapse — a phenomenon where people turn off their feeling of compassion. (See: Cameron, C. D., & Payne, B. K. (2011). “Escaping affect: how motivated emotion regulation creates insensitivity to mass suffering.” Journal of personality and social psychology, 100(1), 1.)
+2. Cecil was a single tragedy. To quote Joseph Stalin: “A single death is a tragedy; a million deaths is a statistic.” As activists, we might do well to remember this. When we talk about the billions of animals that humans kill each year, we really do risk triggering compassion collapse — a phenomenon where people turn off their feeling of compassion. (See: Cameron, C. D., & Payne, B. K. (2011). “[Escaping affect: how motivated emotion regulation creates insensitivity to mass suffering.](http://psycnet.apa.org/journals/psp/100/1/1/)” Journal of personality and social psychology, 100(1), 1.)
 
 Something to consider for our future activism.
 
