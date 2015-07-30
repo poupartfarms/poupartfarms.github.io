@@ -10,33 +10,16 @@ fbimage: /media/2015-07-29-cecil_the_lion/cecil.jpg
 image: /media/2015-07-29-cecil_the_lion/cecil.jpg
 ---
 
-> "If I look at the mass, I will never act." -- Mother Teresa
+> “If I look at the mass, I will never act.” — Mother Teresa
 
-For those of you who have been discsonnected from all forms of media this past 
-week, Cecil was a lion living in a national park in Zimbabwe who was lured out 
-of the park and killed by a trophy hunter. The news has identified an American 
-dentist as the culprit, who allegedly paid two locals $55,000 USD for the hunt.
+For those of you who have been disconnected from all forms of media this past week, Cecil was a lion living in a national park in Zimbabwe who was lured out of the park and killed by a trophy hunter. The news has identified an American dentist as the culprit, who allegedly paid two locals $55,000 USD for the hunt.
 
-The way that people have responded to Cecil's death is interesting from a 
-sociological perspective. Two main factors come into play:
+The way that people have responded to Cecil’s death is interesting from a sociological perspective. Two main factors come into play:
 
-1. Because Cecil was not a typical "food animal", people have not denied him an 
-individual mind. This is evident in the journalistic use of the pronoun "he" 
-instead of "it". Cecil was a person, not a thing. (See: Loughnan, Steve, Nick 
-Haslam, and Brock Bastian. "The role of meat consumption in the denial of moral 
-status and mind to meat animals." Appetite 55.1 (2010): 156-159.)
+1. Because Cecil was not a typical “food animal”, people have not denied him an individual mind. This is evident in the journalistic use of the pronoun “he” instead of “it”. Cecil was a person, not a thing. (See: Loughnan, Steve, Nick Haslam, and Brock Bastian. “The role of meat consumption in the denial of moral status and mind to meat animals.” Appetite 55.1 (2010): 156-159.)
 
-2. Cecil was a single tragedy. To quote Stalin: "A single death is a tragedy; 
-a million deaths is a statistic." As activists, we might do well to remember 
-this. When we talk about the billions of animals that humans kill each year, we
-really do risk triggering compassion collapse -- a phenomenon where people turn
-off their feeling of compassion. (See: Cameron, C. Daryl, and B. Keith Payne. 
-"Escaping affect: how motivated emotion regulation creates insensitivity to 
-mass suffering." Journal of personality and social psychology 100.1 (2011): 1.)
+2. Cecil was a single tragedy. To quote Joseph Stalin: “A single death is a tragedy; a million deaths is a statistic.” As activists, we might do well to remember this. When we talk about the billions of animals that humans kill each year, we really do risk triggering compassion collapse — a phenomenon where people turn off their feeling of compassion. (See: Cameron, C. Daryl, and B. Keith Payne. “Escaping affect: how motivated emotion regulation creates insensitivity to mass suffering.” Journal of personality and social psychology 100.1 (2011): 1.)
 
 Something to consider for our future activism.
 
-And to all of my friends who are not yet vegan -- please consider that there is
-no difference between Cecil's unnecessary death, and the unnecessary death of a
-cow, or chicken, or fish to eat for dinner. If you feel that Cecil's death was 
-unjust, then you already hold the necessary ethical beliefs to become vegan.
+And to all of my friends who are not yet vegan — please consider that there is no difference between Cecil's unnecessary death, and the unnecessary death of a cow, or chicken, or fish to eat for dinner. If you feel that Cecil’s death was unjust, then you already hold the necessary ethical beliefs to become vegan.
