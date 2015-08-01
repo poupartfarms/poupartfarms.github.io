@@ -30,10 +30,10 @@ social:
     url:        https://facebook.com/chrispoupart
     desc:       Friend me on facebook
 
-#  - icon:	github
-#    url:	https://github.com/chrispoupart
-#    desc:	Fork me on github
-#
+  - icon:	github
+    url:	https://github.com/chrispoupart
+    desc:	Fork me on github
+
   - icon:	googleplus-alt
     url:	https://google.com/+ChrisPoupart
     desc:	Add me on google+
@@ -46,8 +46,12 @@ menu:
   - title:	Home
     url:	/
     
-  - title:	About
-    url:	/about
+#  - title:	About
+#    url:	/about
+
+# Plugins
+gems:
+  - jekyll-redirect-from
     
 copyright:
   author:	Chris Poupart
