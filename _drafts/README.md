@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Readme"
+quote: "Is this thing on?"
+video: false
+comments: true
+tags: [ veganism, philosophy, speciesism ]
+author: Chris
+fbimage: /media/2015-07-29-cecil_the_lion/cecil.jpg
+image: /media/2015-07-29-cecil_the_lion/cecil.jpg
+---
+
 This file is kept here so that git will continue to track this directory even
 when there are no blog drafts for Jekyll.
 
