@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Veganism Anyway?"
-quote: "Is this thing on?"
+#quote: "Is this thing on?"
 video: false
 comments: true
 tags: [ veganism, philosophy, history ]
