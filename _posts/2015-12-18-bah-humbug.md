@@ -56,4 +56,8 @@ directly to the destruction of our world while supporting unimaginable violence
 and horror. And for what?  Custom. Habit. Palate pleasure.
 
 It is the hardest part about being vegan — having to interact socially with 
-non-vegans and pretend that what you are participating in doesn’t horrify you. 
+non-vegans and pretend that what you are participating in doesn’t horrify you.
+
+*Photo: [Scrooge and Marley Shop](https://www.flickr.com/photos/ciaran_laval/15277592774) 
+by [Ciaran Laval](https://www.flickr.com/photos/ciaran_laval/). 
+[CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)*
