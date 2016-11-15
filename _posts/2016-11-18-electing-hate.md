@@ -98,4 +98,34 @@ still wants to sue the woman who took that photo, though, that is mostly just
 me feeling vindictive. Clearly, I still have not forgiven her thoughtless
 bigoted act.
 
-And then, here we are with Brexit, and now Trump. 
+And now, here we are with Trump, a racist demagogue who's rhetoric against
+Muslims has undoubtedly contributed to rise of anti-Muslim hate crimes to 
+levels not seen since post 9/11. Rates for 2015 were up 
+[61%](https://www.fbi.gov/news/stories/2015-hate-crime-statistics-released)
+in the USA vs 2014. By all accounts, 2016 is gearing up to be even worse.
+
+Donald Trump, who has made no secret of his racism, homophobia, misogyny, and
+general bigotry, to the point where it won him the support of the KKK, 
+neo-nazis, and the [alt-right](http://www.dailywire.com/news/9441/actual-conservatives-guide-alt-right-8-things-you-michael-knowles),
+has recently appointed his campaign CEO [Steve Bannon](http://www.salon.com/2016/11/14/steve-bannon-runs-an-anti-semitic-website-is-a-misogynist-and-will-be-one-of-donald-trumps-senior-advisors/).
+[Steve Bannon](http://heavy.com/news/2016/11/steve-bannon-stephen-steven-quotes-trump-racist-alt-right-allegations-jew-jewish-anti-semitism-israel-breitbart-divorce-white-nationalism/) 
+is the former head of Breitbart News, an alt-right publication
+known for its strong anti-Muslim and anti-immigrant views, who 
+[self describes](http://www.breitbart.com/tech/2016/03/29/an-establishment-conservatives-guide-to-the-alt-right/)
+the movement thusly:
+
+> There are many things that separate the alternative right from old-school 
+  racist skinheads (to whom they are often idiotically compared), but one 
+  thing stands out above all else: intelligence.
+
+It is little surprise that overt acts of racism and other hate crimes are on
+the rise, and not just in the USA, but in Canada as well.
+
+While it should be obvious that not all Trump supporters are racists, or
+homophobic, or misogynistic, or otherwise bigoted, at least not more than the
+average person in the West, what is clear is that they have put their desire
+for Trump to win above the rights and indeed very lives my friends and family.
+To cheer for a Trump victory is to celebrate the awful, and it is to throw my
+[children's generation under the bus](http://www.independent.co.uk/environment/noam-chomsky-donald-trump-climate-change-denier-global-warming-race-to-disaster-republicans-most-a7418296.html). How do I answer when my children say ask
+"will global warming destroy the world before I am old?" when the answer is
+"probably"?
