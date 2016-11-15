@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electing Hate: A reflection on the fallout of electing bigots."
-quote: "The defeat of the Charter of Values should have been the end. Instead, it was just the beginning."
+quote:
 video: false
 comments: true
 tags: [ racism, government ]
