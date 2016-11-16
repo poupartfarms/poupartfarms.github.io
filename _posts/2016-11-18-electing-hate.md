@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Electing Hate: A reflection on the fallout of electing bigots."
-quote:
-video: false
-comments: true
-tags: [ racism, government ]
+date: 2015-02-10
 author: Chris
-fbimage: /media/2016-11-18-electing-hate/Donald_Trump_by_Gage_Skidmore_12_facebook.jpg
-image: /media/2016-11-18-electing-hate/Donald_Trump_by_Gage_Skidmore_12.jpg
+categories: racism government
+author_name : Chris Poupart
+author_url : /author/chris
+author_avatar: chris
+show_avatar : true
+read_time : 8
+feature_image: Donald_Trump_by_Gage_Skidmore_12
+show_related_posts: true
 ---
+
+# Electing Hate: A reflection on the fallout of electing bigots.
 
 My first real exposure to overt racism, something that many people experience 
 on a regular basis, came 3 years ago today, in a way that was all the more

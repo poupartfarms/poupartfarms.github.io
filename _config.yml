@@ -1,53 +1,21 @@
-# Dependencies
-#markdown:	redcarpet
-markdown: 	kramdown
-highlighter:	rouge
+# Site settings
+title: Poupart Farm
+email: help@writer-theme.com
+description: > # The ramblings of a father, anarchist, and vegan
+  A place to share my wishes, dreams, concerns, and fears.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  Contact : ['Contact', '/contact', 'fa-plane']
+  Author : ['Author', '/author/chris', 'fa-user']
+single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+footer_links:
+    About: ['About', '/about']
 
-# Permalinks
-permalink:	/blog/:title
 
-# Setup
-title:		Poupart Farm
-tagline:	'Veganism for smart asses'
-description:	'Brining veganism to the masses.'
-url:		http://www.poupart.farm
-
-author:
-  name:		'Chris Poupart'
-  url:		https://google.com/+ChrisPoupart
-
-paginate:	5
-
-# Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
-
-social:
-  - icon:	twitter
-    url:	https://twitter.com/chrispoupart
-    desc:	Follow me on twitter
-
-  - icon:	facebook
-    url:        https://facebook.com/chrispoupart
-    desc:       Friend me on facebook
-
-  - icon:	github
-    url:	https://github.com/chrispoupart
-    desc:	Fork me on github
-
-  - icon:	feed
-    url:	http://poupart.farm/atom.xml
-    desc:	Subscribe to my feed
-    
-menu:
-  - title:	Home
-    url:	/
-    
-#  - title:	About
-#    url:	/about
-
-copyright:
-  author:	Chris Poupart
-  url:		http://poupart.farm
-  type_title:	CC BY-NC-SA 4.0
-  type_url:	https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Build settings
+# markdown: kramdown
