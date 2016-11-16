@@ -6,8 +6,8 @@ video: false
 comments: true
 tags: [ racism, government ]
 author: Chris
-fbimage: /media/2016-11-18-electing-hate/niquab-daycare.jpg
-image: /media/2016-11-18-electing-hate/niquab-daycare.jpg
+fbimage: /media/2016-11-18-electing-hate/Donald_Trump_by_Gage_Skidmore_12.jpg
+image: /media/2016-11-18-electing-hate/Donald_Trump_by_Gage_Skidmore_12.jpg
 ---
 
 My first real exposure to overt racism, something that many people experience 

@@ -35,10 +35,6 @@ social:
     url:	https://github.com/chrispoupart
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+ChrisPoupart
-    desc:	Add me on google+
-
   - icon:	feed
     url:	http://poupart.farm/atom.xml
     desc:	Subscribe to my feed
