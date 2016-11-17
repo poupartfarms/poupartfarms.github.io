@@ -2,12 +2,16 @@
 layout: post
 date: 2011-02-23
 title: "What is Veganism Anyway?"
-video: false
 comments: true
-tags: [ veganism, philosophy, history ]
+categories: veganism philosophy history
 author: Chris
-#fbimage: /media/2015-07-29-cecil_the_lion/cecil.jpg
-#image: /media/2015-07-29-cecil_the_lion/cecil.jpg
+author_name : Chris Poupart
+author_url : /author/chris
+author_avatar: chris
+show_avatar : true
+read_time : 5
+feature_image: what-is-veganism
+show_related_posts: true
 ---
 
 Thanks to many large animal organizations, coupled particularly with poorly informed celebrity spokes-people, and widely perpetuated misinformation by non vegans like Oprah, there is a very wide misunderstanding of what veganism is. Veganism is seen by many as a diet — someone is vegan if they don't eat animal products. Some describe it in even looser terms then that, defining a vegan as someone who doesn't eat *much* in the way of animal products, or doesn't eat animal products *most* of the time, such as Bill Clinton. It is because of this association of vegan as a diet that we often see “vegetarian/vegan”, or “vegetarian and vegan”, or even more ambiguously “veg*n”. Here we have two words with very little in common lumped together, further adding to the confusion.

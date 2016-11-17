@@ -3,11 +3,15 @@ layout: post
 title: "Public School Perils - Part 1"
 date: 2015-06-06
 quote: 
-video: false
 comments: true
-fbimage: /media/2015-06-06-public-school-perils/pink-floyd-the-wall.jpg
-image: /media/2015-06-06-public-school-perils/pink-floyd-the-wall.jpg
-tags: [ veganism, philosophy ]
+categories: veganism philosophy
+author_name : Chris Poupart
+author_url : /author/chris
+author_avatar: chris
+show_avatar : true
+read_time : 3
+feature_image: pink-floyd-the-wall
+show_related_posts: true
 ---
 
 > Children are free moral agents and have a right to be exposed to a range of beliefs well beyond the rigid doctrinal confines of their parent's faith, and we have an obligation to insist that they be so exposed, at least in public schools, if not elsewhere. — Tim Wise
