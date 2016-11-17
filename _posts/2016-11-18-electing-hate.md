@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-02-10
+date: 2016-11-18
 title: "Electing Hate: A reflection on the fallout of electing bigots."
-author: Chris
 categories: racism government
 author_name : Chris Poupart
 author_url : /author/chris
@@ -160,5 +159,7 @@ hyperbole when the President-elect has said he will use nuclear weapons and
 doesn't believe in climate change.
 
 If you don't want to be a bad guy, then you can't support Trump. There is no
-middle ground on this one. Agreeing to disagree is for how good a movie was,
-not basic human rights.
+middle ground on this one. Trump can not be divorced from his hateful rhetoric.
+This man has already had terrible consequences for marginalized people, and his
+election only makes it worse. If you are against hatred, you must also be
+against Trump.
