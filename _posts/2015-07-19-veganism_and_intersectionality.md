@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Veganism and Intersectionality"
+date: 2015-07-19
 quote: 
 video: false
 comments: true

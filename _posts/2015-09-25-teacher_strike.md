@@ -2,7 +2,6 @@
 layout: post
 date: 2015-09-25
 title: "Sacrifices to the gods of austerity."
-quote: 
 comments: true
 categories: "public school" austerity government
 author_name: Chris Poupart

@@ -2,7 +2,7 @@
 layout: post
 title: "Cecil the Lion"
 quote: "A single death is a tragedy; a million deaths is a statistic."
-video: false
+date: 2015-07-19
 comments: true
 tags: [ veganism, philosophy, speciesism ]
 author: Chris

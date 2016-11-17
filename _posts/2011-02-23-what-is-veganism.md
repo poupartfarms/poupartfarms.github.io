@@ -1,7 +1,7 @@
 ---
 layout: post
+date: 2011-02-23
 title: "What is Veganism Anyway?"
-#quote: "Is this thing on?"
 video: false
 comments: true
 tags: [ veganism, philosophy, history ]

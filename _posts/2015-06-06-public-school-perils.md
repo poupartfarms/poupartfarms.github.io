@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Public School Perils - Part 1"
+date: 2015-06-06
 quote: 
 video: false
 comments: true
