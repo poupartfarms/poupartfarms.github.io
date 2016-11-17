@@ -52,27 +52,27 @@ The daycare clients were a mixture of our neighbourhood -- some Muslim, some
 Quebecois de souche ("pure blooded Quebecois"), some anglophones, some 
 immigrants, some a mix of the above.
 
-We were drawn in by the Montesori style educational program, the gentle nature
-of the educators, the pluralism that reflected our community, and ironically,
-the secularism of the daycare, which is far, far  more secular than the public
-school my older children now attend.
+We were drawn in by the Montessori style educational program, the gentle nature
+of the educators, the pluralism that reflected our community, and perhaps 
+ironically, the secularism of the daycare, which is far, far more secular than 
+the public school my older children now attend.
 
 One day around lunch time, our kids were on their way back from the park, and
 it just so happened that two of the educators that day were wearing niqabs.
 While this was nothing new to the people who lived in the neighbourhood, a
-real estate agent from somewhere else on the island was visiting a property and
-could not resist her racist urge to take a picture of the group
+real estate agent from somewhere else on the island was visiting a local 
+property and could not resist her racist urge to take a picture of the group
 and post it to Facebook -- uncensored (a likely violation of Quebec's 
 [Charter of Rights and Freedoms](https://en.wikipedia.org/wiki/Quebec_Charter_of_Human_Rights_and_Freedoms), 
-under which privacy is a respected right.) I considered reposting the photo
+under which privacy is a respected right.). I considered reposting the photo
 here, but the truth of the matter is, for many it is still a controversial
-photo, and it is not the point of this post. The photo would not have been out
-of place in any neighbourhood in Quebec in mid November. A group of 6 children
-aged between 3 and 5, walking with two educators in the neighbourhood. Everyone
-is bundled up for the weather, with the kids in winter jackets, boots, hats, 
-and mittens. The two educators are likewise wearing protective clothing, but
-instead of having their faces covered with scarves, they are covered with a
-niqab.
+photo, and it is not the point of this post. For the most part, photo would not 
+have been out of place in any neighbourhood in Quebec in mid November. A group 
+of 6 children aged between 3 and 5, walking with two educators in the 
+neighbourhood. Everyone is bundled up for the weather, with the kids in winter 
+jackets, boots, hats, and mittens. The two educators are likewise wearing 
+protective clothing, but instead of having their faces covered with scarves, 
+they are covered with a niqab.
 
 The results were immediate. The ground had been made fertile for hatred, thanks
 in part to ongoing rhetoric from the PQ and other politicians, and the photo
