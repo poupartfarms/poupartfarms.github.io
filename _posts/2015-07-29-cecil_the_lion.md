@@ -3,12 +3,13 @@ layout: post
 title: "Cecil the Lion"
 quote: "A single death is a tragedy; a million deaths is a statistic."
 date: 2015-07-19
-comments: true
+#comments: true
+read_time: 2
 categories: veganism philosophy speciesism 
 author_name: Chris Poupart
 author_url: /author/chris
 author_avatar: true
-feature_image: cecil.jpg
+feature_image: cecil
 ---
 
 > “If I look at the mass, I will never act.” — Mother Teresa
