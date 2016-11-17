@@ -45,11 +45,12 @@ the effects on the educators and the owners of the daycare were non the less
 terrible.
 
 You see, the daycare is owned and operated by a Muslim family, and some of
-of their employees wore the niqab when out and about in the neighbourhood.
-This was not a secret to us when we registered our children there, nor was it
-a secret to any of the other families. The daycare clients were a mixture of
-our neighbourhood -- some Muslim, some Quebecois de souche ("pure blooded
-Quebecois"), some anglophones, some immigrants, some a mix of the above.
+of their employees wore the [niqab](https://en.wikipedia.org/wiki/Niq%C4%81b) 
+when out and about in the neighbourhood. This was not a secret to us when we 
+registered our children there, nor was it a secret to any of the other families.
+The daycare clients were a mixture of our neighbourhood -- some Muslim, some 
+Quebecois de souche ("pure blooded Quebecois"), some anglophones, some 
+immigrants, some a mix of the above.
 
 We were drawn in by the Montesori style educational program, the gentle nature
 of the educators, the pluralism that reflected our community, and ironically,
