@@ -7,6 +7,7 @@ categories: public_school austerity government
 author_name: Chris Poupart
 author_url: /author/chris
 author_avatar: chris
+show_avatar: true
 read_time: 1
 feature_image: je-protege-mon-ecole-publique
 show_related_posts: true

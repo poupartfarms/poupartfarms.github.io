@@ -8,7 +8,8 @@ read_time: 2
 categories: veganism philosophy speciesism 
 author_name: Chris Poupart
 author_url: /author/chris
-author_avatar: true
+author_avatar: chris
+show_avatar: true
 feature_image: cecil
 ---
 
