@@ -11,6 +11,7 @@ author_avatar: chris
 show_avatar : true
 read_time : 5
 feature_image: what-is-veganism
+square_related: recommend-what-is-veganism
 show_related_posts: true
 ---
 

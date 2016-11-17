@@ -10,7 +10,8 @@ author_avatar: chris
 show_avatar: true
 read_time: 1
 feature_image: je-protege-mon-ecole-publique
-show_related_posts: true
+show_related_posts: false
+square_related: recommend-je-protege-mon-ecole-publique
 ---
 
 So recently, many of the teacher's unions here in Quebec have decided to go on

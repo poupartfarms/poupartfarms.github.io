@@ -11,6 +11,8 @@ comments: true
 feature_image: scrooge
 read_time: 3
 categories: veganism philosophy
+square_related: recommend-scrooge
+show_related: false
 ---
 
 Ah, the Christmas season. How I loath it. It should come as no surprise to the 

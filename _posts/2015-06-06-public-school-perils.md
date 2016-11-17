@@ -11,6 +11,7 @@ author_avatar: chris
 show_avatar : true
 read_time : 3
 feature_image: pink-floyd-the-wall
+square_related: recommend-pink-floyd-the-wall
 show_related_posts: true
 ---
 

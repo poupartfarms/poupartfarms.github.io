@@ -9,7 +9,8 @@ author_avatar: chris
 show_avatar : true
 read_time : 8
 feature_image: Donald_Trump_by_Gage_Skidmore_12
-show_related_posts: true
+square_related: recommend-Donald_Trump_by_Gage_Skidmore_12
+show_related_posts: false
 ---
 
 

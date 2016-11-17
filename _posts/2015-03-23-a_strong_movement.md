@@ -12,6 +12,7 @@ author_avatar: chris
 show_avatar : true
 read_time : 1
 feature_image: donald_watson
+square_related: recommend-donald_watson
 show_related_posts: true
 ---
 

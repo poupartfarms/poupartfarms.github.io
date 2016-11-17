@@ -11,6 +11,8 @@ author_url: /author/chris
 author_avatar: chris
 show_avatar: true
 feature_image: cecil
+square_related: recommend-cecil
+show_related_posts: true
 ---
 
 > “If I look at the mass, I will never act.” — Mother Teresa
