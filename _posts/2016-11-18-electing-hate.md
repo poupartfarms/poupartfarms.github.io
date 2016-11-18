@@ -135,6 +135,9 @@ known for its strong anti-Muslim and anti-immigrant views. When asked what the
 difference was between the alt-right and skinheads, the answer was 
 "[intelligence](http://www.breitbart.com/tech/2016/03/29/an-establishment-conservatives-guide-to-the-alt-right/)".
 
+<div style="text-align: center;"><figure><img src="/img/alt-right-neo-nazi.jpg">
+<figcaption>alt=neo, right=nazi</figcaption></figure></div>
+
 It is little surprise that overt acts of racism and other hate crimes are on
 the rise, and not just in the USA, but in Canada as well.
 
