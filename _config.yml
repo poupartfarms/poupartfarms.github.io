@@ -1,10 +1,10 @@
 # Site settings
 title: Poupart Farm
 email: help@writer-theme.com
-description: > # The ramblings of a father, anarchist, and vegan
-  A place to share my wishes, dreams, concerns, and fears.
+idescription: The ramblings of a father, anarchist, and vegan. 
+#  A place to share my wishes, dreams, concerns, and fears.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://www.poupart.farm" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
@@ -15,7 +15,8 @@ nav_list:
 single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-
+site_twitter_id: 16282823
+default_twitter_id: 16282823
 
 # Build settings
 # markdown: kramdown

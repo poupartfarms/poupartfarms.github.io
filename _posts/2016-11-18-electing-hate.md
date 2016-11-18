@@ -3,13 +3,16 @@ layout: post
 date: 2016-11-18
 title: "Electing Hate: A reflection on the fallout of electing bigots."
 categories: racism government
-author_name : Chris Poupart
-author_url : /author/chris
+author_name: Chris Poupart
+author_url: /author/chris
 author_avatar: chris
-show_avatar : true
-read_time : 8
+show_avatar: true
+read_time: 8
 feature_image: Donald_Trump_by_Gage_Skidmore_12
 square_related: recommend-Donald_Trump_by_Gage_Skidmore_12
+twitter_image: recommend-Donald_Trump_by_Gage_Skidmore_12
+twitter_id: 16282823
+description: "My first real exposure to overt racism, something that many people experience on a regular basis, came 3 years ago today."
 show_related_posts: false
 ---
 
