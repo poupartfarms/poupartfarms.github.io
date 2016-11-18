@@ -50,8 +50,8 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     <meta content="{{ page.author_url  | prepend: site.url }}" property="article:author">
     {% endif %}
-    {% if page.fbimage %}
-    <meta content="{{ site.url }}/img/{{ page.fbimage }}" property="og:image">
+    {% if page.fb_image %}
+    <meta content="{{ site.url }}/img/{{ page.fb_image }}" property="og:image">
     {% else %}
     <meta content="{{ site.url }}/img/{{ page.author_avatar }}.jpg" property="og:image">
     {% endif %}
