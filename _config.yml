@@ -12,11 +12,12 @@ nav_list:
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/chris', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>&copy; 2016 Chris Poupart - <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
 site_twitter_id: 16282823
 default_twitter_id: 16282823
+facebook_app_id: 180437142417439
 
 # Build settings
 # markdown: kramdown
