@@ -51,7 +51,7 @@
     <meta content="{{ page.author_url  | prepend: site.url }}" property="article:author">
     {% endif %}
     {% if page.fb_image %}
-    <meta content="{{ site.url }}/img/{{ page.fb_image }}" property="og:image">
+    <meta content="{{ site.url }}/img/{{ page.fb_image }}.jpg" property="og:image">
     {% else %}
     <meta content="{{ site.url }}/img/{{ page.author_avatar }}.jpg" property="og:image">
     {% endif %}
