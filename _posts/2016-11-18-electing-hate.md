@@ -11,6 +11,7 @@ read_time: 8
 feature_image: Donald_Trump_by_Gage_Skidmore_12
 square_related: recommend-Donald_Trump_by_Gage_Skidmore_12
 twitter_image: recommend-Donald_Trump_by_Gage_Skidmore_12
+fb_image: recommend-Donald_Trump_by_Gage_Skidmore_12
 twitter_id: 16282823
 description: "My first real exposure to overt racism, something that many people experience on a regular basis, came 3 years ago today."
 show_related_posts: false
