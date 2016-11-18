@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/chris/
-feature_image: feature-sea
+feature_image: feature-laptop
 author_avatar: chris
 author_name: Chris Poupart
 title: Chris Poupart
@@ -10,6 +10,8 @@ title: Chris Poupart
 
 # Chris Poupart
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Father of 3 wonderful children. Vegan of 13+ years. Anarchis. Geek.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Somehow, I remain an optimist, and I dream for a better tomorrow.
+
+This is where you will find my musings.
