@@ -21,7 +21,7 @@
     {% else %}
     <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
     {% endif %}
-    {% if page.image %}
+    {% if page.twitter_image %}
     <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.twitter_image }}.jpg">
     {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.author_avatar }}.jpg">
@@ -50,10 +50,10 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     <meta content="{{ page.author_url  | prepend: site.url }}" property="article:author">
     {% endif %}
-    {% if page.image %}
-    <meta content="/img/srcset/{{ page.image }}" property="og:image">
+    {% if page.fbimage %}
+    <meta content="/img/{{ page.fbimage }}" property="og:image">
     {% else %}
-    <meta content="/img/logo-high-resolution.png" property="og:image">
+    <meta content="/img/{{ page.author_avatar }}.jpg" property="og:image">
     {% endif %}
     {% if page.categories %}
     {% for category in page.categories limit:1 %}
