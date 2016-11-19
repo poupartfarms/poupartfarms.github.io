@@ -45,7 +45,7 @@ reported crimes in 2014. Statistics are still missing for 2015 and 2016.
 It was one of these incidents of hatred that we got caught up in one fateful
 morning. Thankfully, virtually all of the violence was online and in the media,
 and so our children, and their educators, were not directly exposed to it. But
-the effects on the educators and the owners of the daycare were non the less 
+the effects on the educators and the owners of the daycare were none the less 
 terrible.
 
 You see, the daycare is owned and operated by a Muslim family, and some of
