@@ -106,7 +106,7 @@ interviews with other parents, and [newspaper editorials](https://web.archive.or
 
 Eventually, as these things do, it ran its course, and life moved on. Some
 families were too spooked by the incident and decided to move their children
-to a new daycare. The daycare decided to hire additional non-niqabe workers to 
+to a new daycare. The daycare decided to hire additional non-niqabi workers to 
 take the kids out to the park, and eventually, the denizens of Quebec decided 
 that the Charter was the wrong way to go and voted the PQ out of power, 
 effectively killing it.
