@@ -13,6 +13,8 @@ read_time: 4
 categories: racism
 square_related: recommend-niqabi
 show_related: false
+fb_image: niqabi
+twitter_image: niqabi
 ---
 > I used to glare at niqab-wearing women on the street, but then I opened my 
   heart and mind - to a wonderful daycare provider.
