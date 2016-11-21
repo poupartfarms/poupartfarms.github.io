@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include facebook-sdk-js.html %}
 
 <header class="hero-image" style="background-image: url({{ site.baseurl }}/img/{{page.feature_image}}.jpg);">
     <span class="menu-trigger animated fadeInDown">
@@ -22,7 +23,8 @@ layout: default
             <h1>{{ page.title }}</h1>
 
             {{ content }}
-
+            {% include facebook-like-button.html %}
+            <br />
             {% include disqus.html %}
         </div><!-- main-content/col -->
     </div> <!--/row -->
