@@ -10,7 +10,7 @@ title: Chris Poupart
 
 # Chris Poupart
 
-Father of 3 wonderful children. Vegan of 13+ years. Anarchis. Geek.
+Father of 3 wonderful children. Vegan of 13+ years. Anarchist. Geek.
 
 Somehow, I remain an optimist, and I dream for a better tomorrow.
 
