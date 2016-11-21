@@ -2,6 +2,7 @@
 layout: post
 date: 2016-11-18
 title: "Electing Hate: A reflection on the fallout of electing bigots."
+comments: true
 categories: racism government
 author_name: Chris Poupart
 author_url: /author/chris
