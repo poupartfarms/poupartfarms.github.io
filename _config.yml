@@ -19,5 +19,10 @@ site_twitter_id: 16282823
 default_twitter_id: 16282823
 facebook_app_id: 180437142417439
 
+# compress.html settings.
+# See: http://jch.penibelst.de/
+compress_html:
+  blanklines: true
+
 # Build settings
 # markdown: kramdown
