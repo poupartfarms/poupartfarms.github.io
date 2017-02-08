@@ -14,8 +14,7 @@ square_related: recommend-DeathtoStock_TheCollaborative-2
 twitter_image: recommend-DeathtoStock_TheCollaborative-2
 fb_image: recommend-DeathtoStock_TheCollaborative-2
 twitter_id: 16282823
-#description: "My first real exposure to overt racism, something that many people
-#experience on a regular basis, came 3 years ago today."
+description: "Can business people save the world?"
 show_related_posts: false
 ---
 
