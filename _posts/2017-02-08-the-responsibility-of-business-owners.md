@@ -4,7 +4,7 @@ date: 2017-02-08
 title: "The Responsibility of Business Owners in the Questions of Extinction"
 comments: true
 categories: philosophy history
-author_name: Tammy Mckenzie
+author_name: Tammy Mackenzie
 author_url: /author/tammy
 author_avatar: tammy
 show_avatar: true
