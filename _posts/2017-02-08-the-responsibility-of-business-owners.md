@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-02-08
-title: "The Responsibility of Business Owners in the Questions of Extinction"
+title: "The Responsibility of Business Owners in the Questions of Human Extinction"
 comments: true
 categories: philosophy history
 author_name: Tammy Mackenzie
@@ -18,19 +18,23 @@ description: "Can business people save the world?"
 show_related_posts: false
 ---
 
+> **_Once upon a time, you saw a way to do something a little differently, a
+little better._**
+
+## How We Got Here
+
 American philosopher and humanist Noam Chomsky wrote an essay called [“The
 Responsibility of Intellectuals”](https://chomsky.info/19670223/). In it, he
 calls out the intellectuals of his country, demanding that they take a rational
 stand against American imperialism and atrocities abroad, and cease seeking the
 trappings of power through justifications of genocide. It’s a critical argument
 against a global “cult of the expert” that allows only some powerful, generally
-rich, male, beige people, to speak as experts in morality and ideology when not
-only are those questions within the capacities of all people, but that in fact
-no science can answer such subjective questions, and as such no experts can
-exist. He further goes on to detail the charlatanism of those who claim to be
-experts in public policies and international affairs, their blatant lying and
+rich, male, beige people, to speak as experts in morality and ideology. He
+argues that such questions are subjective, and so cannot give rise to general
+expertise. He further goes on to detail the charlatanism of those who claim to
+be experts in public policies and international affairs, their blatant lying and
 thefts, misrepresentations of history, and active role in crimes from blackmail
-to murder, and that in scales of thousands of people.
+to mass murder.
 
 The “Responsibility of Intellectuals” was published in 1967, and Mr. Chomsky was
 talking about the war in Vietnam. His questions were: what is the responsibility
@@ -42,16 +46,12 @@ who let World War II happen, who supported the massacre of their neighbors?
 Today, we face [global
 extinction](https://www.washingtonpost.com/news/morning-mix/wp/2015/06/22/the-earth-is-on-the-brink-of-a-sixth-mass-extinction-scientists-say-and-its-humans-fault/?utm_term=.ee79fdaf268a).
 What now is the responsibility of powerful people, of rich people, towards the
-rest of life? We benefit as did Mr. Chomsky’s “intellectual” class from the
+rest of life? We benefit as did Mr. Chomsky’s intellectual class from the
 pinnacle of human ingenuity, of centuries of technological and social
 innovations, of health, safety, and access to information the likes of which no
-humans saw, ever, until those few decades that posterity, should we survive,
-will likely decide are behind us now. What is our responsibility, having
+humans saw, ever, nor likely will again. What is our responsibility, having
 benefited from the habits and wastes that now cause death worldwide, and risk
-killing off all hope for humankind?
-
-> **_Once upon a time, you saw a way to do something a little differently, a
-little better._**
+killing off all hope for life?
 
 In the 1790’s, within the context of the start of the Industrial Revolution,
 Britain and America began to pass laws that are today the business laws and free
@@ -129,8 +129,10 @@ make the best choice for himself and his family. Our cultural heritage, our
 writing, and our thinking, all say that though the German people should have
 helped, they and we must be free to not help, to not act, should we so choose.
 
-Anyways that’s the contorted logic of most war apologists, who are not the
-people likely to make the rational changes we need. Thankfully, we have a frame
+## Where We Can Go
+
+Though war apologists have a disproportionate effect on the business laws of the
+land, they need not dictate our shared values. Thankfully, we have a frame
 of reference for criminal responsibility, in that we have generally agreed to
 certain laws that limit free choice. When our liberties infringe about those of
 another person, when our actions become maleficent, then we are committing a
@@ -217,6 +219,9 @@ campaigns. Close the party system. Increase inheritance taxes. Insist on a free
 press. Fund artists. Fund inventors. Trust people. There are many other rational
 and required initiatives. You get to pick.
 
+> **"_You were sick, but now you're well again, and there's work to do."  -Kurt
+Vonnegut, Timequake_**
+
 I understand that it's hard. I know that you were told a lie about how the world
 worked, about your place in it, and about how other people lived their time
 here. I was told the same. I forgive you for those years when you didn’t know
@@ -228,15 +233,3 @@ bears repeating: because business people can act, we must. The cost of our
 victory in the economic wars is extermination, and there is no power yet in
 place to defeat us. Stop doing it. Stop lying about it. Fix it. Because after us
 come the revolutions, and after that, the end.
-
-> **"_You were sick, but now you're well again, and there's work to do."  -Kurt
-Vonnegut, Timequake_**
-
-
-Stop doing it. Stop lying about it. Fix it.  
-Hören Sie damit auf. Hör auf zu lügen. Repariere es.  
-תפסיק לעשות את זה. תפסיק לשקר על זה. תיקון זה.  
-يتوقف عن فعل ذلك. توقفوا عن الكذب حول هذا الموضوع. أصلحه.  
-Cessez de le faire. Arrêtez de mentir à ce sujet. Réparez.  
-停止做。 停止躺在它。 修复它。 
-
