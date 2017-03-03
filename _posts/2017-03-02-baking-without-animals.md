@@ -62,20 +62,23 @@ If your recipe calls for buttermilk, you can stir in a couple of teaspoons of
 vinegar into 1 cup of milk and let it sit for a few minutes before using it in
 your recipe.
 
-Things to be careful for when using dairy-free milks are: 1. Not all of them are
-suitable for vegans.  If the milk is supplemented with D3, then chances are that
-the D3 is from a cheap source such as sheep’s wool, and not mushrooms. Milk that
-is suitable for vegans is generally fortified with vitamin D2.  2. Not all
-dairy-free milk is allergy friendly. Be careful when selecting if there are nut
-allergies or soy allergies and use one of the alternatives, such as rice milk or
-oat milk.
+Things to be careful for when using dairy-free milks are: 
+
+1. Not all of them are suitable for vegans.  If the milk is supplemented with
+D3, then chances are that the D3 is from a cheap source such as sheep’s wool,
+and not mushrooms. Milk that is suitable for vegans is generally fortified with
+vitamin D2.  
+
+2. Not all dairy-free milk is allergy friendly. Be careful when selecting if
+there are nut allergies or soy allergies and use one of the alternatives, such
+as rice milk or oat milk.
   
 ## Alternatives to Chicken’s Eggs
 
 Chicken’s eggs can be a bit tougher to replace, as it will depend on the
 function that the egg serves in the recipe. In the case of most baked goods,
-such as muffins, cookies, and cake, one of the following substitutions will work
-perfectly:
+such as muffins, cookies, and cake, one of the following substitutions will
+work perfectly:
 
 <p><a
 href='http://www.swansonvitamins.com/blog/kaitlins-blog/egg-substitutes'><img
