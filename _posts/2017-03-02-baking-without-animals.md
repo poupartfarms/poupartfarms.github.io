@@ -26,6 +26,7 @@ situations unfold:
 1. Parents who have the luxury of not thinking about food issues bring
 whatever they want to celebrate, leaving children who don’t consume animal
 products (either due to allergies, ethics, or culture) as the odd ones out, 
+
 2. Parents give a warning to the class that they will be bringing in food, and
 give the opportunity for the parents of effected kids to provide an equivalent
 option (a not unreasonable solution), or 3. Parents give a warning *and* bring
