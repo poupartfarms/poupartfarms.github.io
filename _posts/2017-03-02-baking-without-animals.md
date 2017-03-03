@@ -55,7 +55,7 @@ everyday recipes.
 Cow’s milk is incredibly easy to replace under most circumstances. Pretty much
 every grocery store in Montreal now has a plethora of dairy-free alternatives,
 including (but not limited to!) soy milk, almond milk, coconut milk, and rice
-milk. And of those bases, you find option (and sometimes combinations) of sugar
+milk. And of those bases, you find options (and sometimes combinations) of sugar
 free, original flavoured, vanilla flavoured, chocolate flavoured, and more.
 
 In baking, you can usually replace cow’s milk 1:1 with one of these other milks.
