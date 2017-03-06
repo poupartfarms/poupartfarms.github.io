@@ -29,13 +29,14 @@ products (either due to allergies, ethics, or culture) as the odd ones out,
 
 2. Parents give a warning to the class that they will be bringing in food, and
 give the opportunity for the parents of effected kids to provide an equivalent
-option (a not unreasonable solution), or 3. Parents give a warning *and* bring
-in food that does not contain the offending ingredients, allowing the other
-parents to evaluate the risk.
+option (a not unreasonable solution), or 
+
+3. Parents give a warning *and* bring in food that does not contain the 
+offending ingredients, allowing the other parents to evaluate the risk.
   
 In my children’s classes, the biggest allergies aside from nuts and peanuts are
 eggs and dairy. People are already used to the idea of not bringing foods with
-nots or peanuts. 20 years ago, this was controversial. Now it is expected
+nuts or peanuts. 20 years ago, this was controversial. Now it is expected
 behaviour.
 
 But in the list of the most common food allergens, eggs, dairy, and
@@ -73,7 +74,30 @@ vitamin D2.
 2. Not all dairy-free milk is allergy friendly. Be careful when selecting if
 there are nut allergies or soy allergies and use one of the alternatives, such
 as rice milk or oat milk.
-  
+
+### Replacing Cow's Milk Butter
+
+This has also gotten very easy as there are several commercial non-dairy options 
+that can be found in all major grocery stores. You might be tempted to just grab
+the closest tub of margarine, but most margarines contain dairy of some type,
+and others might contain cheap sources of D3.
+
+These 3 types are all suitable for vegans and can be found in most major grocery
+including Walmart, Sobeys, and Provigo. They replace dairy butter 1:1. 
+
+They are listed by my personal preference:
+
+1. [Melt](http://www.meltorganic.com/our-products/rich-creamy-melt/). Described 
+as "Butter 2.0" by the company, this is some seriously good spread.
+
+2. [Earth Balance](https://earthbalancenatural.com/product/original-buttery-spread/).
+This is one of the first commercial dairy-free butters on the market, and still
+a great option.
+
+3. [Becel Vegan](http://www.becel.ca/en/becel/becelproducts/becel-vegan.aspx).
+This spread is closer to soft margarine than it is to butter, but it is very
+easy to find copared to the other two, and is also certified kosher.
+ 
 ## Alternatives to Chicken’s Eggs
 
 Chicken’s eggs can be a bit tougher to replace, as it will depend on the
