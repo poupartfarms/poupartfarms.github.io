@@ -18,6 +18,18 @@ description: "Can business people save the world?"
 show_related_posts: false
 ---
 
+ **Update April 2017:** A note of warning to the reader.
+
+This article discusses topics that may trigger feelings of fear or anger, which
+can lead to social problems for all of us. According to psychologists ([Harvard
+Health](http://www.health.harvard.edu/newsletter_article/in-praise-of-gratitude))
+theologians ([Researchgate](https://micda.psc.isr.umich.edu/pubs/abs/9578)), and
+neurologists ([University of Southern
+California](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01491/full)),
+practicing gratitude and compassion can reestablish good mental health and
+relationships. *Thank you to a wise advisor, Geshe Ngawang Sonam, for insight
+and inspiration on the importance of doing so. -Tam.*
+
 > **_Once upon a time, you saw a way to do something a little differently, a
 little better._**
 
